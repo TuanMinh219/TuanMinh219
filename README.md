@@ -17,7 +17,7 @@ I'm a full-stack web developer who likes to try, learn and adapt to new technolo
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,vite,redux,docker,postgres,mysql,nginx,linux,postman,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,vite,redux,docker,postgres,mysql,nginx,linux,postman,git,github,gitlab" />
 </p>
 
 <p align="left">
@@ -30,7 +30,7 @@ I'm a full-stack web developer who likes to try, learn and adapt to new technolo
 ## Currently Learning & Exploring
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,gitlab,redis,mongodb,kafka,rabbitmq,elasticsearch,ubuntu,kali" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,redis,mongodb,kafka,rabbitmq,elasticsearch,ubuntu,kali" />
 </p>
 
 ## Socials
