@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TuanMinh219&label=Profile%20views&color=6DB33F&style=flat" alt="profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TuanMinh219.TuanMinh219&color=6DB33F" alt="profile views" />
 </p>
 
 ---
