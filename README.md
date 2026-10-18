@@ -40,6 +40,11 @@ I'm a full-stack web developer who likes to try, learn and adapt to new technolo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="45" height="45" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" title="Zustand" alt="Zustand" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" title="TanStack Query" alt="TanStack Query" />
+</p>
+
 ## Currently Learning & Exploring
 
 <p align="left">
@@ -58,8 +63,9 @@ I'm a full-stack web developer who likes to try, learn and adapt to new technolo
 
 <p align="left">
   <a href="https://github.com/TuanMinh219"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://facebook.com/MinhHoang219"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/tuan.minh.219"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/<your-linkedin>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://facebook.com/<your-facebook>"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/<your-instagram>"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ## GitHub Stats
