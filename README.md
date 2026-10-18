@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Minh 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Java+%7C+Spring+Boot+%7C+React+%2F+TypeScript;Building+software+that+solves+real-world+problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Java+%7C+Spring+Boot+%7C+React+%2F+TypeScript;I+like+to+try%2C+learn+and+adapt+to+new+tech" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ I'm a full-stack web developer who likes to try, learn and adapt to new technolo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuanMinh219&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=TuanMinh219&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
