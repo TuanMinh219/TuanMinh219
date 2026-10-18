@@ -10,11 +10,11 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a full-stack web developer who enjoys building software that solves real-world problems. I work end-to-end — from Spring Boot APIs on the backend to React/TypeScript interfaces on the frontend. Open to interesting opportunities in tech.
+I'm a full-stack web developer who likes to try, learn and adapt to new technologies. I work end-to-end — from Spring Boot APIs on the backend to React/TypeScript interfaces on the frontend. Open to interesting opportunities in tech.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,vite,redux,docker,postgres,mysql,nginx,linux,postman,git,github" />
@@ -27,13 +27,13 @@ I'm a full-stack web developer who enjoys building software that solves real-wor
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
 
-## 🌱 Currently Learning & Exploring
+## Currently Learning & Exploring
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,kubernetes,gitlab,redis,mongodb,kafka,rabbitmq,elasticsearch,ubuntu,kali" />
 </p>
 
-## 🔗 Socials
+## Socials
 
 <p align="left">
   <a href="https://github.com/TuanMinh219"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -41,7 +41,7 @@ I'm a full-stack web developer who enjoys building software that solves real-wor
   <a href="https://facebook.com/<your-facebook>"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TuanMinh219&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true" />
@@ -58,4 +58,4 @@ I'm a full-stack web developer who enjoys building software that solves real-wor
 
 ---
 
-<p align="center"><i>⭐ From TuanMinh219</i></p>
+<p align="center"><i>From TuanMinh219</i></p>
